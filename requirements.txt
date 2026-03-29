@@ -4,6 +4,20 @@ pandas
 numpy
 requests
 python-dotenv
+
+# AI / Agents
 agno
-jugaad-data
 groq
+
+# Data sources
+jugaad-data
+
+# Search / tools
+ddgs
+
+# Optional but safe dependencies (prevents hidden errors)
+tqdm
+pydantic
+httpx
+lxml
+beautifulsoup4
